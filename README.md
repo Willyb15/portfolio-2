@@ -1,5 +1,9 @@
+## Copy of Portfolio repository pushed to Github from NEW client computer.
+## Didn't hvae PEM keys for AWS so just started over from Scractch
+## USing this copy to add Google Analytics and Google DTM
+
 ## Building a Portfolio Website with HTML, CSS, jQuery
-###Thanks for stalking My Super Awesome Site/Readme.md/GitHub Profile!
+### Thanks for stalking My Super Awesome Site/Readme.md/GitHub Profile!
 ###Using Github as project base for commiting to Ubuntu AWS Server
 ![alt text](img/ss.png "Description goes here")
 <!--![My image](Willyb15.github.com/photo-gallery/Images/image1.jpg)-->
