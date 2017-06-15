@@ -25,6 +25,9 @@ setTimeout(function() {
     $(".build").css("visibility", "visible").hide().fadeIn(6000);
 }, 8000);
 setTimeout(function() {
+    $(".track").css("visibility", "visible").hide().fadeIn(6500);
+}, 8500);
+setTimeout(function() {
     $(".icon").css("visibility", "visible").hide().fadeIn(6000);
 }, 3500);
 
@@ -57,7 +60,7 @@ $('.logo-img').removeClass('wow tada animated');
 
 // .removeClass('wow zoomOutDown animated').removeClass('wow zoomInUp animated');
 // Fixes n
-// Fixes navbar when scrolled past headerHeight - headerHeight should === #home height 
+// Fixes navbar when scrolled past headerHeight - headerHeight should === #home height
 var initialHeight = (window.innerHeight);
 $(window).bind('scroll', function() {
     console.log(initialHeight);
@@ -87,10 +90,10 @@ $(window).bind('scroll', function() {
 //         // $('#porfolio-item').addClass('');
 //         $('.portfolio-item').css("visibility", "visible").addClass('wow zoomInDown animated');
 
-//     } 
+//     }
 // });
 
-//Displays Caption on Projects when Mouse hovers 
+//Displays Caption on Projects when Mouse hovers
 $(".hover").mouseleave(
     function() {
         $(this).removeClass("hover");
