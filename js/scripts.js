@@ -25,7 +25,7 @@ setTimeout(function() {
     $(".build").css("visibility", "visible").hide().fadeIn(6000);
 }, 8000);
 setTimeout(function() {
-    $(".track").css("visibility", "visible").hide().fadeIn(6500);
+    $(".track-row").css("visibility", "visible").hide().fadeIn(6500);
 }, 8500);
 setTimeout(function() {
     $(".icon").css("visibility", "visible").hide().fadeIn(6000);
